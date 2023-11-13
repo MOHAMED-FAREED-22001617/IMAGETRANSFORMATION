@@ -32,8 +32,8 @@ Display all the Transformed images.
 
 ## Program:
 ```python
-Developed By:MOHAMED FAREED
-Register Number:
+Developed By:MOHAMED FAREED F
+Register Number:212222230082
 i)Image Translation
 translation = np.float32([[1,0,150],[0,1,250],[0,0,1]])
 translated_image = cv2.warpPerspective(original,translation,(col,row))
